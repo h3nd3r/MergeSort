@@ -2,6 +2,7 @@
 ** Return a sorted array
 */
 
+// this is a dup function, should move out and call from the Merge project...
 function merge( array1, array2 ) {
 
   var sorted_array = new Array();
