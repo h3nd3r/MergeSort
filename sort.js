@@ -1,5 +1,5 @@
 /*
-** Return an sorted array
+** Return a sorted array
 */
 
 function merge( array1, array2 ) {
